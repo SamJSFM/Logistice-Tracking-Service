@@ -1,0 +1,33 @@
+﻿Installing assembly 'D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe
+   logfile = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe assembly.
+Committing assembly 'D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe
+   logfile = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe
+   logfile = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.InstallLog
+Committing assembly 'D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe
+   logfile = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.InstallLog
+Installing assembly 'D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.InstallLog
+   assemblypath = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe
+Committing assembly 'D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.InstallLog
+   assemblypath = D:\Windows App Projects\Logistics_Tracking_Service\LogisticsTrackingService\LogisticsTrackingService\bin\Release\LogisticsTrackingService.exe
